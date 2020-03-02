@@ -1,3 +1,3 @@
-# Python
+# Andrew NG Machine Learning Python implementation
 
-Andrew Ng Machine Learning EX1 : Demonstration of a gradient descent algorithm to run a linear regression. 
+EX1 : Demonstration of a gradient descent algorithm to run a linear regression. 
